@@ -6,7 +6,9 @@ Check a GPX file for weird things
 Use it
 ======
 
-python check_gpx.py <gpxfile>
+```
+python check_gpx.py _gpxfile_
+```
 
 What does it check?
 ===================
